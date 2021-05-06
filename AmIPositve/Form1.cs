@@ -40,7 +40,7 @@ namespace AmIPositve
             }
             else
             {
-                outputLabel.Text += $"\n\n{integer} is not divivble by 7"; 
+                outputLabel.Text += $"\n\n{integer} is not divisble by 7"; 
             }
 
         }
